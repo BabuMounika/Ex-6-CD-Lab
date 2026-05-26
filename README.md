@@ -74,7 +74,8 @@ int main() {
 }
 ```
 # OUTPUT
-<img width="862" height="587" alt="image" src="https://github.com/user-attachments/assets/e5c65bfb-d6e9-4e6a-8823-6f86dbe53416" />
+<img width="923" height="584" alt="image" src="https://github.com/user-attachments/assets/d5d97a8a-d38e-4935-9619-fe0ba99656a2" />
+
 
 # Result
 The back end of the compiler is implemented successfully, and the output is verified.
